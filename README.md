@@ -67,7 +67,8 @@ Input a new sentence → Model predicts sentiment → Outputs label (Positive / 
 
 Example:
 
-Text: "I absolutely love this product!"
+Text: "I absolutely love this product!"   
+
 Predicted Sentiment: Positive
 
 🧪 Results
